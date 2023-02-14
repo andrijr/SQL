@@ -1,0 +1,11 @@
+
+D:\00 Programowanie\01 SQL\00 MS SQL KURS 70-461 70-761\XML>
+
+D:\00 Programowanie\01 SQL\00 MS SQL KURS 70-461 70-761\XML>
+
+
+
+D:\00 Programowanie\01 SQL\00 MS SQL KURS 70-461 70-761\XML>bcp [70-461].dbo.tblDepartment out mydata.out -N -T
+
+D:\00 Programowanie\01 SQL\00 MS SQL KURS 70-461 70-761\XML>bcp [70-461].dbo.tblDepartment out mydata.out -N -T
+

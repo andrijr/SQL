@@ -1,0 +1,4 @@
+-- dbo.NameTable
+-- dbo to Schema (owner) w³aœciciel tabeli
+-- mo¿e byæ inny Schemat naprzyk³ad sec.NameTabe itd
+-- pozwala to robiæ role i ustaiwaæ dodatkowe uprawnienia
